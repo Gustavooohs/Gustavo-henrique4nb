@@ -1,5 +1,5 @@
 # Gustavo-henrique4nb
-Repositório Back-End solicitado pelo professor Afonso
+Repositório de Back-End solicitado pelo professor Afonso
 
 # Especificações de Requisitos: Sistema de Login e Autenticação de Usuários
 
